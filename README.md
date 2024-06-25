@@ -52,4 +52,4 @@ Because the API key is on behalf of the administrator, two basic resources are f
 Instead of using mutable Org/Site/Device Name, use these identifiers, which are opaque strings, to specify the resources.
 
 ## API Specification
-Please refer [OpenAPI document](https://htmlpreview.github.io/?https://github.com/ZyxelNetworks/NebulaOpenAPI/blob/main/doc/openapi.html)
+Please refer [OpenAPI document](https://zyxelnetworks.github.io/NebulaOpenAPI/doc/openapi.html)
